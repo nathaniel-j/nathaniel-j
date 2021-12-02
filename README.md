@@ -1,4 +1,4 @@
-  Hi, I'm Nate.\
+### Hi, I'm Nate.
 After a decade of residential construction, carpentry and woodworking I am shifting my focus to the field of data science and am
 learning how to view the world through the lens of empirical data. I love the idea of being able to parse the validity of an argument or an idea 
 using objective techniques. Uncovering my own hidden biases or accidentally disproving my own theories while in search of truth
